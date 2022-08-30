@@ -41,6 +41,4 @@ Thank you for considering contributing to the Laravel Boilerplate project! Pleas
 
 If you discover a security vulnerability within this boilerplate, please send an e-mail to Anthony Rappa at rappa819@gmail.com, or create a pull request if possible. All security vulnerabilities will be promptly addressed.
 
-### License
 
-MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
